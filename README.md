@@ -1,10 +1,4 @@
-<p align="center">
-    <img width="800" src=".github/logo.png" title="Logo do projeto"><br />
-    <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
-</p>
-
-# Título
+# Praticando com Laravel
 
 Este projeto foi desenvolvido para praticar meu conhecimento sobre o Laravel e aplicar padrões de projetos e de arquitetura de software. O frontend não é o foco da aplicação, o projeto criado utiliza o método SPA(Single Page Application) como forma de renderização de views. 
 
